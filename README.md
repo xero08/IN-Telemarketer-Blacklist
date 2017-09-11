@@ -57,3 +57,16 @@ VM-040826 | Sales | CG | TN
 VM-040832 | Sales | CG | TN
 DM-388687 | Sales | CG | TN
 BT-655522 | Chat | CG | TN
+
+To report telemarketer do the following:
+Send an SMS to 1909 within 3 days of getting a call or SMS from the telemarketer.
+```<Details of promotion>, <Sender ID / Number>, <DD/MM/YY>```
+
+Examples:
+``` insurance, VK-SHARKN, 05/09/17```
+```personal loan, 9856321475, 04/09/17 ```
+This will be reported by your service provider to TRAI. You will get SMS confirmation from your telecom service provider with an SR number and ETA for resolution.
+
+It will be something like this:
+```Hello! Thank you for interacting with Vodafone. Your service registration number is 2215647158. Your query shall be responded by Thursday  14-Sep-17 12:28p.m.```
+
