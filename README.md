@@ -17,7 +17,7 @@ VK-MyGovt | Propaganda | VF | KA
 DM-MyGovt | Propaganda | VF | KA
 VM-GOIDOT | Propaganda | VF | KA
 VM-MININB | Propaganda | VF | KA
-VM-SPYKRR | Store | Sales | VF KA
+VM-SPYKRR | Store Sales | VF | KA
 VK-PPQuiz | Lottery | VF | KA
 AM-LNSKRT | Store Sales | VF | KA
 MD-KILLER | Store Sales | VF | KA
