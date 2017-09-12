@@ -1,5 +1,5 @@
 # IN-Telemarketer-Blacklist
-#### This is a list of telemarketer sender IDs gathered from various sources. Note that this list is a community maintained one and the onus of validity of this list lies on individual contributions
+#### This is a list of telemarketer sender IDs gathered from various sources. Note that this list is a community maintained one and the onus of validity of this list lies on individual contributions.
 
 #### Inspired from [this](https://www.reddit.com/r/india/comments/6zd44e/blacklist_of_telemarketers/) post on reddit.
 
@@ -18,15 +18,15 @@ Sender ID / Number of telemarketer | Subject of the SPAM | Network Operator Code
 080001 | Commercial Sex Worker | VF | KA
 087567 | Chat | CG | GJ
 09205236187 | Astrology | CG | GJ
-155400 | M-Pesa e Wallet | VF | KA
+155400 | M-Pesa e-Wallet | VF | KA
 561619 | Sales | CG | TN
 600003 | bank account hacker | CG | GJ
 600004 | bank account hacker | CG | GJ
 653731 | Sales (internet plans) | CG | GJ
 654000 | group chat | CG | GJ
 09310102247 | Lottery | VF | KA
-AD-BPITCH | Sales(ecommerce) | ID | KA
-AD-DOMINO | Sales(pizza) | CG | GJ
+AD-BPITCH | Sales (ecommerce) | ID | KA
+AD-DOMINO | Sales (Domino's) | CG | GJ
 AD-EMERLD | Sales | CG | TN
 AD-GOIBIB | Sales | CG | TN
 AD-KGFOND | Sales | CG | TN
@@ -37,8 +37,8 @@ AD-LNKART | Glasses | AT | TN
 AD-SPICEJ | Flight | AT | TN
 AD-UBERIN | Taxi | AT | TN
 AD-WANGSK | Food | AT | TN
-AM-BroFrU | Sales(Bro4U) | ID | KA
-AM-CULTFIT | Sales(gym) | ID | KA
+AM-BroFrU | Sales (Bro4U) | ID | KA
+AM-CULTFIT | Sales (gym) | ID | KA
 AM-DOCWSE | Medical | VF | KA
 AM-DSJIPL | Share trading | VF | KA
 AM-HSBCIN | Share Trading | ID | AP
@@ -78,8 +78,8 @@ DZ-EASEMY | Sales(air travel) | CG | GJ
 DZ-EISSMS | Loan(Policies) | ID | KA
 DZ-TRAVEL | Sales(air travel) | CG | GJ
 DZ-LNKART | Glasses | AT | TN
-HP-BSNLWL | Sales(BSNK wallet) | CG | GJ
-HP-FLIGHT | Sales(air travel) | CG | GJ
+HP-BSNLWL | Sales (BSNL wallet) | CG | GJ
+HP-FLIGHT | Sales (air travel) | CG | GJ
 HP-iPurva | Apartment | VF | KA
 HP-MEDLFF | Medical | VF | KA
 HP-Primet | Apartment | VF | KA
@@ -150,11 +150,11 @@ Send an SMS to 1909 within 3 days of getting a call or SMS from the telemarketer
 Examples:
 
 ``` insurance, VK-SHARKN, 05/09/17```
-```personal loan, 9856321475, 04/09/17 ```
+```personal loan, 98XXXXXX75, 04/09/17 ```
 
 This will be reported by your service provider to TRAI. You will get SMS confirmation from your telecom service provider with an SR number and ETA for resolution.
 
 It will be something like this:
 
-```Hello! Thank you for interacting with Vodafone. Your service registration number is 2215647158. Your query shall be responded by Thursday  14-Sep-17 12:28p.m.```
+```Hello! Thank you for interacting with Vodafone. Your service registration number is 22XXXXXX58. Your query shall be responded by Thursday  14-Sep-17 12:28p.m.```
 
