@@ -10,6 +10,7 @@ AM-SHARKN | Share trading | VF | KA
 040378 | Manappuram Gold Loan | VF | KA
 040389 | Manappuram Gold Loan | VF | KA
 040311 | Manappuram Gold Loan | VF | KA
+040311 | Manappuram Gold Loan | VF | KA
 040382 | Manappuram Gold Loan | VF | KA
 040399 | Manappuram Gold Loan | VF | KA
 VK-KLOUNG | Online clothes store | VF | KA
@@ -57,6 +58,23 @@ VM-040826 | Sales | CG | TN
 VM-040832 | Sales | CG | TN
 DM-388687 | Sales | CG | TN
 BT-655522 | Chat | CG | TN
+IMVOUCHER | Credit card | TN
+IMREWARD | Credit card | TN
+ADSPICEJ | Flight | TN
+ADLNKART | Glasses | TN
+AMLNKART | Glasses | TN
+AMMOBIKW | FinServ | TN
+IMBIKRBT | Automobile Services | TN
+HPVROOMS | Taxi | TN
+AMOLACAB | Taxi | TN
+VMALCARE | FinServ | TN
+ADUBERIN | Taxi | TN
+HPUBERIN | Taxi | TN
+DZLNKART | Glasses | TN
+ADFRBHLF | Food | TN
+ADWANGSK | Food | TN
+
+<!--I am unsure about the network operator codes for the ones that I added or even how to find it. Would be great if you can add that.-->
 
 To report telemarketer do the following:
 Send an SMS to 1909 within 3 days of getting a call or SMS from the telemarketer.
