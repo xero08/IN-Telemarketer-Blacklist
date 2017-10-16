@@ -3,6 +3,8 @@
 
 #### Inspired from [this](https://www.reddit.com/r/india/comments/6zd44e/blacklist_of_telemarketers/) post on reddit.
 
+**Sales**
+
 Sender ID / Number of telemarketer | Subject of the SPAM | Network Operator Code | Telecom Circle Code
 -----------------------------------|---------------------|-----------------------|--------------------
 DM-088689 | Sales | CG | TN
@@ -24,6 +26,7 @@ MD-KILLER | Store Sales | VF | KA
 VM-SPYKRR | Store Sales | VF | KA
 
 **Manapurram**
+
 Sender ID / Number of telemarketer | Subject of the SPAM | Network Operator Code | Telecom Circle Code
 -----------------------------------|---------------------|-----------------------|--------------------
 040378 | Manappuram Gold Loan | VF | KA
@@ -33,6 +36,7 @@ Sender ID / Number of telemarketer | Subject of the SPAM | Network Operator Code
 040399 | Manappuram Gold Loan | VF | KA
 
 **Propaganda**
+
 Sender ID / Number of telemarketer | Subject of the SPAM | Network Operator Code | Telecom Circle Code
 -----------------------------------|---------------------|-----------------------|--------------------
 BT-MoDWnS | Propaganda | CG | TN
@@ -42,6 +46,7 @@ VM-GOIDOT | Propaganda | VF | KA
 VM-MININB | Propaganda | VF | KA
 
 **Finserv**
+
 Sender ID / Number of telemarketer | Subject of the SPAM | Network Operator Code | Telecom Circle Code
 -----------------------------------|---------------------|-----------------------|--------------------
 VK-040509 | Finserv | CG | TN
@@ -50,6 +55,7 @@ VM-041091 | FinServ | CG | TN
 VM-040507 | Finserv | CG | TN
 
 **Share Trading**
+
 Sender ID / Number of telemarketer | Subject of the SPAM | Network Operator Code | Telecom Circle Code
 -----------------------------------|---------------------|-----------------------|--------------------
 AM-SHARKN | Share trading | VF | KA
@@ -57,24 +63,28 @@ AM-SHARKN | Share trading | VF | KA
 AD-TRDIND | Share trading | VF | KA
 
 **Loan**
+
 Sender ID / Number of telemarketer | Subject of the SPAM | Network Operator Code | Telecom Circle Code
 -----------------------------------|---------------------|-----------------------|--------------------
 IM-LNDGKT | Loan | CG | TN
 AD-TATACP | Loan | CG | TN
 
 **Expo**
+
 Sender ID / Number of telemarketer | Subject of the SPAM | Network Operator Code | Telecom Circle Code
 -----------------------------------|---------------------|-----------------------|--------------------
 VM-340601 | Expo | CG | TN
 VK-340601 | Expo | CG | TN
 
 **Chat**
+
 Sender ID / Number of telemarketer | Subject of the SPAM | Network Operator Code | Telecom Circle Code
 -----------------------------------|---------------------|-----------------------|--------------------
 BT-646300 | Chat | CG | TN
 BT-655522 | Chat | CG | TN
 
 **Miscellaneous**
+
 Sender ID / Number of telemarketer | Subject of the SPAM | Network Operator Code | Telecom Circle Code
 -----------------------------------|---------------------|-----------------------|--------------------
 HP-Swiggy | Jobs | CG | TN
